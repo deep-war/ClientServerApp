@@ -7,7 +7,7 @@ This is a **Client Server Application** where a connection is established betwee
 3. Once the Server is started, we run the command to start the client. The Client accepts two arguments - The IP Address and the same port number as the Server.  
 4. This is a chatting application where the server is pre-populated with an English to Spanish dictionary for the days of the week, soon after the client establishes a connection with the Server.  
 
-English to spanish dictionary:  
+* English to spanish dictionary:  
 "Monday"    - "Lunes"  
 "Tuesday"   - "Martes"  
 "Wednesday" - "Miercoles"  
